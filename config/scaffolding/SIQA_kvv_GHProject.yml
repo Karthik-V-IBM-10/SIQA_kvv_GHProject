@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/Karthik-V-IBM-10
   gitUsername: Karthik-V-IBM-10
   gitBranch: bvt
+services:
+- serviceName: project.siqa_kvv_gh.integrations:refdaf
+  packages:
+  - name: SIQA_kvv_GHProject
+    version: "1.0"
+- serviceName: project.siqa_kvv_gh.referencedata:ref1
+  packages:
+  - name: SIQA_kvv_GHProject
+    version: "1.0"
