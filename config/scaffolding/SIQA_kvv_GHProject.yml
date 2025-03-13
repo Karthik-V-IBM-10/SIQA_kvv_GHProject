@@ -7,6 +7,11 @@ packages:
   gitUrl: https://github.com/Karthik-V-IBM-10
   gitUsername: Karthik-V-IBM-10
   gitBranch: bvt
+- name: SSL_JDBC_Test
+  gitServerName: SIQA_kvv
+  gitUrl: https://github.com/prabhakarsag
+  gitUsername: Karthik-V-IBM-10
+  gitBranch: main
 services:
 - serviceName: project.siqa_kvv_gh.integrations:refdaf
   packages:
