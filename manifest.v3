@@ -9,17 +9,18 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="SSL_JDBC_Test">1.0</value>
+    <value name="JMS2waySSL">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">15</value>
+  <value name="build">16</value>
   <null name="description"/>
   <value name="created_date">13-03-2025 05:05:28 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-03-13T08:11:43.721638179Z</value>
+  <value name="lastUpdated">2025-03-13T08:14:24.168578729Z</value>
   <value name="wmProjectId">fl2da963a9e152af1abc7e2f</value>
   <value name="creator">Karthik V</value>
 </Values>
